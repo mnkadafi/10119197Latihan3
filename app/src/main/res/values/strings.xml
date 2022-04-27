@@ -29,7 +29,7 @@
     <string name="check_code_warning_empty_desc_name">Ups, Kamu belum memasukkan nama ya</string>
 
     <string name="lorem_ipsum_long">Lorem ipsum dolor sit amen</string>
-    <string name="age_empty">Isi Umur terlebih dahulu ya Ayah Bunda:)</string>
+    <string name="age_empty">Umurnya isi terlebih dahulu ya Ayah Bunda :)</string>
     <string name="walkthrough_button_start">Mulai</string>
     <string name="walkthrough_text">Monitory membantu Anda mengontrol HP Anak</string>
     <string name="biodata_name">Nama Panggilan Kamu</string>
